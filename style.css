@@ -417,3 +417,21 @@ article .icon {
 .email-icon {
     height: 2.5rem;
 }
+
+.duhrell-logo {
+    height: 1.3rem;
+}
+
+/* FOOTER */
+
+footer {
+    height: 26vh;
+    margin: 0 1rem;
+}
+
+footer p {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
